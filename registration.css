@@ -1,0 +1,51 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Century Gothic';
+}
+.logo {
+    float: left;
+    width: 150px;
+    border: 5px solid black;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 10px 30px;
+    margin: 15px 100px;
+}
+.logo a {
+    color: black;
+}
+.reg {
+    position: absolute;
+    left: 620px;
+    top: 50px;
+    font-size: 24px;
+}
+.login {
+    position: absolute;
+    top: 140px;
+    left: 620px;
+}
+form {
+    position: absolute;
+    left: 610px;
+    top: 250px;
+}
+.form-control input {
+    width: 300px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-top: white;
+    border-right: white;
+    border-left: white;
+    border-bottom: 1px solid grey;
+}
+button {
+    border: 2px solid dodgerblue;
+    border-radius: 15px;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    color: dodgerblue;
+    margin-top: 20px;
+}
